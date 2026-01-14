@@ -35,7 +35,7 @@ def main():
         
         return
 
-    turtle.title("Recursive Geometric Pattern (Inward Indentation)")
+    turtle.title("Recursive Geometric Patterns (Inward Indentations)")
     turtle.speed(0)            
     turtle.hideturtle()
     turtle.penup()
